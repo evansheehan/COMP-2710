@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/awubis/Documents/Spring 2019 Semester/COMP 2710/Homework/HW 3/hw3.cpp
+iostream
+-
+stdlib.h
+-
+assert.h
+-
+ctime
+-
+

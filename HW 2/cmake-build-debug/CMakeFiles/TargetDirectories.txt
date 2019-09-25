@@ -1,0 +1,3 @@
+/Users/awubis/Documents/Spring 2019 Semester/COMP 2710/Homework/HW 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/awubis/Documents/Spring 2019 Semester/COMP 2710/Homework/HW 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/awubis/Documents/Spring 2019 Semester/COMP 2710/Homework/HW 2/cmake-build-debug/CMakeFiles/HW_2.dir
